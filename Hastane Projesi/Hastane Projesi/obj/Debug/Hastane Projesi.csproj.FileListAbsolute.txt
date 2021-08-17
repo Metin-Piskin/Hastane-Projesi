@@ -1,0 +1,23 @@
+C:\Users\Metin\source\repos\Metin Form\Hastane Projesi\Hastane Projesi\bin\Debug\Hastane Projesi.exe.config
+C:\Users\Metin\source\repos\Metin Form\Hastane Projesi\Hastane Projesi\bin\Debug\Hastane Projesi.exe
+C:\Users\Metin\source\repos\Metin Form\Hastane Projesi\Hastane Projesi\bin\Debug\Hastane Projesi.pdb
+C:\Users\Metin\source\repos\Metin Form\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.csprojAssemblyReference.cache
+C:\Users\Metin\source\repos\Metin Form\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Girişler.resources
+C:\Users\Metin\source\repos\Metin Form\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Hasta_Giriş.resources
+C:\Users\Metin\source\repos\Metin Form\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Hasta_Kayıt.resources
+C:\Users\Metin\source\repos\Metin Form\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Properties.Resources.resources
+C:\Users\Metin\source\repos\Metin Form\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.GenerateResource.cache
+C:\Users\Metin\source\repos\Metin Form\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\Metin Form\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.exe
+C:\Users\Metin\source\repos\Metin Form\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.pdb
+C:\Users\Metin\source\repos\Metin Form\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Bilgi_Düzenle.resources
+C:\Users\Metin\source\repos\Metin Form\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Branş_Paneli.resources
+C:\Users\Metin\source\repos\Metin Form\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Doktor_Bilgi_Düzenle.resources
+C:\Users\Metin\source\repos\Metin Form\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Doktor_Detay.resources
+C:\Users\Metin\source\repos\Metin Form\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Doktor_Giriş.resources
+C:\Users\Metin\source\repos\Metin Form\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Doktor_Paneli.resources
+C:\Users\Metin\source\repos\Metin Form\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Duyurular.resources
+C:\Users\Metin\source\repos\Metin Form\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Hasta_Detay.resources
+C:\Users\Metin\source\repos\Metin Form\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Randevu_Listesi.resources
+C:\Users\Metin\source\repos\Metin Form\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Sekreter_Detay.resources
+C:\Users\Metin\source\repos\Metin Form\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Sekreter_Giriş.resources
